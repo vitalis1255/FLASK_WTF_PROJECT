@@ -1,1 +1,4 @@
 {{q_form.hidden_tag()}}: This helps to hid the input fields.
+In using WTF, one py handles form creation, another py for its execution and fetching of information from the templates.
+
+The first thing to do in form in html template is to create flash message using with
